@@ -4,10 +4,10 @@ I am Falak Thackar.
 ### 😄 Pronouns
 She/Her
 
-## 🌱I am a Full stack Developer
+## 💻 I am a Full stack Developer
 - 🌱 I’m currently in a continuous learning process of the MERN stack.
 - 👯 I’m looking to collaborate on Javascript, ReactJS projects.
-- 🤔 I’m looking for a full time job as a Full stack/Front-end developer.
+- 😄 I’m looking for a full time job as a Full stack/Front-end developer.
 
 ### 🔭 Other interests
 I like playing the classical guitar and enjoy yoga.
@@ -18,7 +18,7 @@ Connect with me on [Twitter](https://twitter.com/falakthackar) or [LinkedIn](htt
 ### 💬 Want to know more about me?
 You can find my work on my [Portfolio](http://falakthkr.github.io/).
 
-## My Github Stats
+## ⚡ My Github Stats
 <p align="center">
   <img  alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=falakthkr&show_icons=true&theme=light" height="200px"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falakthkr&theme=light" height="200px" />
