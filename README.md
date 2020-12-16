@@ -1,5 +1,9 @@
 # Hi there 👋
 I am Falak Thackar.
+I code for excellence. 
+Serving with integrity and energy is at the core of everything I do. 
+I am a quick learner, a good communicator and team player. 
+I thrive on deadlines.
 
 ### 😄 Pronouns
 She/Her
