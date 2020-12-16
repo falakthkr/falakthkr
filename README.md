@@ -5,6 +5,9 @@ I am Falak Thackar.
 She/Her
 
 ## 🌱I am a Full stack Developer
+- 🌱 I’m currently in a continuous learning process of the MERN stack.
+- 👯 I’m looking to collaborate on Javascript, ReactJS projects.
+- 🤔 I’m looking for a full time job as a Full stack/Front-end developer.
 
 ### 🔭 Other interests
 I like playing the classical guitar and enjoy yoga.
