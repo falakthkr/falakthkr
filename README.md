@@ -11,7 +11,7 @@ I thrive on deadlines.
 She/Her
 
 ## 💻 I am a Full stack Developer
-- 🌱 I’m currently leanring VueJS.
+- 🌱 I’m currently learning VueJS.
 - 👾 I’m a software engineering intern at codemonk.
 
 ### 🔭 Other interests
