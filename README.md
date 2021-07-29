@@ -12,7 +12,7 @@ She/Her
 
 ## 💻 I am a Full stack Developer
 - 🌱 I’m currently learning Hugo and Golang.
-- 👾 I’m a software engineering intern at codemonk.
+- 👾 I’m an Associate Software Engineer at Codemonk.
 
 ### 🔭 Other interests
 I like playing the classical guitar and enjoy yoga.
