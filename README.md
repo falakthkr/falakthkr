@@ -10,17 +10,15 @@ I am a quick learner, a good communicator and team player.
 She/Her
 
 ## 💻 I am a Full stack Developer
-- 🌱 I’m currently learning Hugo and Golang.
+- 🌱 I’m currently learning Python.
 - 👾 I’m an Associate Software Engineer at Codemonk.
 
 ### 🔭 Other interests
-I like playing the classical guitar and enjoy yoga.
+I like playing the classical guitar and yoga.
+I also enjoy a round of golf on the weekends.
 
 ### 📫 How can you reach me?
 Connect with me on [Twitter](https://twitter.com/falakthackar) or [LinkedIn](https://www.linkedin.com/in/falakthackar/).
-
-### 💬 Want to know more about me?
-You can find my work on my [Portfolio](http://falakthkr.github.io/).
 
 ## ⚡ My Github Stats
 <p align="center">
