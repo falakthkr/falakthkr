@@ -11,7 +11,7 @@ She/Her
 
 ## 💻 I am a Full stack Developer
 - 🌱 I’m currently learning Python.
-- 👾 I’m an Associate Software Engineer at Codemonk.
+- 👾 I’m a Software Engineer at Checkpoint Systems.
 
 ### 🔭 Other interests
 I like playing the classical guitar and yoga.
