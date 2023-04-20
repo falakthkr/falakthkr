@@ -1,16 +1,10 @@
 # Hi there 👋
-I am Falak Thackar. I code for excellence. 
-<br />
-Serving with integrity and energy is at the core of everything I do. 
-<br />
-I am a quick learner, a good communicator and team player. 
-<br />
+Experienced full-stack software engineer with expertise in web development using Java and MERN stack. Proficient in VueJS with 2 years of experience. Skilled in teaching and collaborating with other team members, including designers, product managers, and QA engineers. Proven ability to handle clients, lead development processes, and deliver presentations. Recognized for hardworking ethics and exceptional people skills.
 
 ### 😄 Pronouns
 She/Her
 
 ## 💻 I am a Full stack Developer
-- 🌱 I’m currently learning Python.
 
 ### 🔭 Other interests
 I like playing the classical guitar and yoga.
