@@ -1,5 +1,5 @@
 # Hi there 👋
-Experienced full-stack software engineer with expertise in web development using Java and MERN stack. Proficient in VueJS with 2 years and 3 months of professional work experience. Skilled in teaching and collaborating with other team members, including designers, product managers, and QA engineers. Proven ability to handle clients, lead development processes, and deliver presentations. Recognized for hardworking ethics and exceptional people skills.
+Experienced full-stack software engineer with expertise in web development using Java and MERN stack. Proficient in VueJS with 2 years and 10 months of professional work experience. Skilled in teaching and collaborating with other team members, including designers, product managers, and QA engineers. Proven ability to handle clients, lead development processes, and deliver presentations. Recognized for hardworking ethics and exceptional people skills.
 
 ### 😄 Pronouns
 She/Her
